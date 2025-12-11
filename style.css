@@ -8,7 +8,7 @@ header{
 
 section{
     text-align: justify;
-    margin-right: 10%;
+    margin-right: 0%;
 }
 
 .contenedor-principal{
@@ -17,10 +17,11 @@ section{
 }
 
 .contenedor-principal p{
-    flex:2;
+    min-width: 40% ;
 }
 
 .contenedor-principal aside{
-    flex:1;
+    flex:2;
     padding: 10px;
+    margin-left: 0;
 }
