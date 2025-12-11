@@ -1,0 +1,26 @@
+header{
+    text-align: center;
+}
+
+.APapaqui{
+    align-items: center;
+}
+
+section{
+    text-align: justify;
+    margin-right: 10%;
+}
+
+.contenedor-principal{
+    display: flex;
+    gap: 20px;
+}
+
+.contenedor-principal p{
+    flex:2;
+}
+
+.contenedor-principal aside{
+    flex:1;
+    padding: 10px;
+}
