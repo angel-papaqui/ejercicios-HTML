@@ -2,23 +2,29 @@ header{
     text-align: center;
 }
 
-.APapaqui{
-    align-items: center;
-}
-
-section{
+body{
+    background-color: #ffdcd5;
     text-align: justify;
-    margin-right: 0%;
+    font-size: 18px;
+    font-family: "Roboto Condensed", sans-serif;
+    margin-right: 5%;
+    margin-left: 5%;
 }
 
-
-
-.contenedor-principal p{
-    min-width: 40% ;
+.Papaqui{
+    margin-right: 1%;
+    float: left;
 }
 
-.contenedor-principal aside{
-    flex:2;
-    padding: 10px;
-    margin-left: 0;
+h2{
+    margin-left: 0%;
+}
+
+aside{
+    float: right;
+}
+
+.hobbies{
+    float: left;
+    margin-left: 10%;
 }
