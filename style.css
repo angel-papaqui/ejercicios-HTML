@@ -17,8 +17,8 @@ body{
 
 .Papaqui{
     margin: 0 1rem;
-    float: right;
-    width: 7em;
+    float: left;
+    width: 150px;
     border-radius: 10%;
 }
 
