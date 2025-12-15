@@ -2,18 +2,24 @@ header{
     text-align: center;
 }
 
+h1{
+    font-family: "Science Gothic", sans-serif;
+}
+
 body{
     background-color: #ffdcd5;
     text-align: justify;
-    font-size: 18px;
-    font-family: "Roboto Condensed", sans-serif;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
     margin-right: 5%;
     margin-left: 5%;
 }
 
 .Papaqui{
-    margin-right: 1%;
-    float: left;
+    margin: 0 1rem;
+    float: right;
+    width: 7em;
+    border-radius: 10%;
 }
 
 h2{
@@ -21,10 +27,11 @@ h2{
 }
 
 aside{
-    float: right;
+    display: inline-block;
+    margin: 10rem 5rem;
 }
 
-.hobbies{
-    float: left;
-    margin-left: 10%;
+fieldset{
+    border-color: #BD897D;
+    background: #E7D4D0;
 }
